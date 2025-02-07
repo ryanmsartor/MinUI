@@ -92,7 +92,15 @@ Extras:
 > **Active** actively working on compatibility and improvements specific to this device  
 > **Maintained** inheriting improvements to common functionality  
 > **Deprecated** will be retired in a future update  
-> **Retired** removed from repo, no longer updated or packaged with new releases  
+> **Retired** removed from repo, no longer updated or packaged with new releases
+
+## Developers
+
+I am not soliciting source contributions. 
+Please feel free to fork or learn from any
+of my repos but I don't have time to manage
+a community or be managed by one. Thanks
+for understanding.
 
 ## Legacy versions
 
